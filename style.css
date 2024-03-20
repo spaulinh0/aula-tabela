@@ -1,0 +1,20 @@
+.textos{
+  color: #ffff;
+  text-align: center;
+}
+.celulas td{
+  width: 95px;
+}
+.tabela-moda th{
+  background-color:#BB86FC;  
+}
+.tabela-moda td{
+  background-color:#424250;
+}
+.tabela-casa th{
+  background-color: #00C4B4;
+}
+.tabela-casa td{
+  background-color:#424250; 
+}
+
